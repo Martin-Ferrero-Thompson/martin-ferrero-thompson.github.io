@@ -14,7 +14,7 @@ timezone: Europe/Madrid
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Silent Words (Blog v0.0.3) # the main title
+title: Silent Words (Blog v0.0.4) # the main title
 
 tagline: Whispers of Reflection, Echoes of Experience # it will display as the sub-title # it will display as the sub-title
 
@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "http://silentwords.es"
+url: "http://martin-ferrero-thompson.github.io"
 
 github:
   username: github_username # change to your github username
