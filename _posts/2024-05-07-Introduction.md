@@ -18,6 +18,8 @@ So, dear friends, let us embark on this journey together, with open hearts and o
 
 Welcome to _Silent Words_ — a platform for shared journeys, a sanctuary for the soul, and a celebration of life's most precious moments.
 
+>
 > Modified By: _The Souful Whisperer_ 
 > 
 > Last Modified: May 10, 2024
+>
