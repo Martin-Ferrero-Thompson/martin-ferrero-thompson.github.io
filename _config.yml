@@ -14,7 +14,7 @@ timezone: Europe/Madrid
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Silent Words (Blog v0.0.4) # the main title
+title: Silent Words # the main title
 
 tagline: Whispers of Reflection, Echoes of Experience # it will display as the sub-title # it will display as the sub-title
 
@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: 'Martin Ferrero-Thompson'
+  name: "The Soulful Whisperer"
   email: martin-ferrro-thompson@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
