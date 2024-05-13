@@ -6,6 +6,8 @@ pin: true
 
 # Introduction
 
+![A supportive image of a person sat by a lake](/assets/img/blog-002.png "Introduction: Silent Words")
+
 As I enter the last phases of my life's journey, I'm filled with a profound sense of gratitude and reflection. It's a time for introspection, for cherishing the memories of the past, and for embracing the possibilities that lie ahead. And it's with this spirit of reflection and openness that I welcome you to _Silent Words_.
 
 _Silent Words_ is more than just a blog — it's a platform for connection, conversation, and shared exploration. As we journey forward together, I invite you to join me in navigating the complexities of life, one heartfelt discussion at a time.
@@ -18,7 +20,10 @@ So, dear friends, let us embark on this journey together, with open hearts and o
 
 Welcome to _Silent Words_ — a platform for shared journeys, a sanctuary for the soul, and a celebration of life's most precious moments.
 
+> As always, happy to hear your thoughts... Select the Email icon in the bottom left of the Home page to drop me a message - _The Soulful Whisperer_
+{: .prompt-tip }
+
 >
 > Modified By: _The Souful Whisperer_ 
 > 
-> Last Modified: May 10, 2024-19:10:00
+> Last Modified: May 13, 2024@14:00:00
