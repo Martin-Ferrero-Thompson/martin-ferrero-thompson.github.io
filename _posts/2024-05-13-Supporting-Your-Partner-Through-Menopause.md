@@ -1,5 +1,5 @@
 ---
-date: 2024-05-13 18:00:S00 +0200
+date: 2024-05-13 18:00:00 +0200
 categories: ["Understanding", "Embracing Change"]
 tags: ["MenopauseSupport", "UnderstandingPartnership", "CompassionateListening", "SupportingHerJourney"]
 ---
