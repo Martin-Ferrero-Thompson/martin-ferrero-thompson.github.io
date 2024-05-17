@@ -1,6 +1,6 @@
 ---
 date: 2024-05-17 09:00:00 +0200
-categories: ["Health", ""]
+categories: ["Health"]
 tags: ["LifeAfterAdversity", "AdaptingToChange", "EmbracingUncertainty", "StrengthInRecovery", "SilentStrength"]
 ---
 
