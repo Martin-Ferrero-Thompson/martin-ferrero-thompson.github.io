@@ -1,8 +1,9 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 2
+order: 1
 ---
+
 # Hi, I'm Martin and welcome to my Blog: *Silent Words*.
 
 Explore the depths of life's journey through introspective tales on *Silent Words*.
