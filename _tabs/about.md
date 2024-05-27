@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 2
 ---
 # Hi, I'm Martin and welcome to my Blog: *Silent Words*.
 
