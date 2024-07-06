@@ -35,8 +35,6 @@ As I continue this journey of rediscovery, I am driven by the desire to turn aro
 In the whispers of renewal, there is a profound strength. Together, we can navigate the complexities of the modern workplace, drawing from the rich tapestry of our experiences and the boundless potential of the future.
 
 With determination and hope,
-The Soulful Whisperer
-
 _The Souful Whisperer_
 
 > As always, happy to hear your thoughts... Select the Email icon in the bottom left of the Home page to drop me a message - _The Soulful Whisperer_
