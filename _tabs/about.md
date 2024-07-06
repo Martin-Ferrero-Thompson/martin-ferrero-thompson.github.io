@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-# Hi, I'm Martin and welcome to my Blog: *Silent Words*.
+# Hi, I'm Martin _(AKA The Soulful Whisperer)_ and welcome to my Blog: *Silent Words*.
 
 Explore the depths of life's journey through introspective tales on *Silent Words*.
 

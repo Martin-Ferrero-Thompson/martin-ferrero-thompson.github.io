@@ -1,5 +1,5 @@
 ---
-date: 2024-05-27 20:M00:00 +0200
+date: 2024-05-27 20:00:00 +0200
 category: ["Relationships", "Love", "Life Transitions", "Challenges"]
 tags: ["LoveAcrossBorders", "LifeInSpain", "ExpatLife", "LivingInLimbo", "BureaucraticJourney"]
 ---
