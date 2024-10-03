@@ -1,7 +1,7 @@
 ---
 date: 2024-05-07 12:00:00 +0200
 category: "Introduction"
-pin: true
+pin: false
 ---
 
 # Introduction
