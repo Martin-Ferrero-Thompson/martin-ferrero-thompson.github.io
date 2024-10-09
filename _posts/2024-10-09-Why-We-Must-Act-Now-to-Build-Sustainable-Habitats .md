@@ -2,7 +2,7 @@
 date: 2024-10-09 09:00:00 +0200
 category: "Daily Diary"
 categories: ["Environment"]
-tags: ["Sustainability", "EcoFriendly", "Biodiversityg", "EnvironmentalAwareness", "HabitatProtection", "WorldMigratoryBirdDay", "YouthForThePlanet"]
+tags: ["Sustainability", "EcoFriendly", "Biodiversity", "EnvironmentalAwareness", "HabitatProtection", "WorldMigratoryBirdDay", "YouthForThePlanet"]
 pin: true
 ---
 
