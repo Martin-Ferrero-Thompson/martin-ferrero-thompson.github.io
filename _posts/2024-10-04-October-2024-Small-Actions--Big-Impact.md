@@ -3,7 +3,7 @@ date: 2024-10-04 09:00:00 +0200
 category: "Daily Diary"
 categories: ["Sustainability"]
 tags: ["Sustainability", "EcoFriendly", "SustainableLiving", "ClimateAction", "GreenEconomy"]
-pin: true
+pin: false
 ---
 
 # "Sustaining Tomorrow: Small Actions, Big Impact" #
