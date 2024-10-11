@@ -26,7 +26,7 @@ On the subject of the World Mental Health Day, let's commit to fostering environ
 
 >A Global Movement for Mental Health
 It’s also important to acknowledge that World Mental Health Day is not just a conversation confined to the workplace. Across the globe, organizations are pushing for greater awareness and advocacy for mental health in various spheres of life. This year's theme offers a unique opportunity to reflect on how we, as individuals, can create more supportive environments in our workplaces and personal lives.
-For more details on World Mental Health Day and how you can get involved in promoting mental wellness, visit the [World Health Organization page]​(https://nationaltoday.com/world-mental-health-day/).
+For more details on World Mental Health Day and how you can get involved in promoting mental wellness, visit the [World Mental Health Day](https://www.who.int/campaigns/world-mental-health-day) website.
 {: .prompt-tip }
 
 > As always, happy to hear your thoughts... Select the Email icon in the bottom left of the Home page to drop me a message - _The Soulful Whisperer_
