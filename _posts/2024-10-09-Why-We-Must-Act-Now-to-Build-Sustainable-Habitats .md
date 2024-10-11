@@ -3,7 +3,7 @@ date: 2024-10-09 09:00:00 +0200
 category: "Daily Diary"
 categories: ["Environment"]
 tags: ["Sustainability", "EcoFriendly", "Biodiversity", "EnvironmentalAwareness", "HabitatProtection", "WorldMigratoryBirdDay", "YouthForThePlanet"]
-pin: true
+pin: false
 ---
 
 # "Our Future, Our Cities: Why We Must Act Now to Build Sustainable Habitats"
