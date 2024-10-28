@@ -3,7 +3,7 @@ date: 2024-10-11 09:00:00 +0200
 category: "Daily Diary"
 categories: ["Wellness"]
 tags: ["WorldMentalHealthDay", "MentalHealthAwareness", "WorkplaceWellness", "EmotionalResilience", "MentalWellbeing"]
-pin: true
+pin: false
 ---
 
 # World Mental Health Day 2024: Prioritizing Wellness in the Workplace and Beyond
